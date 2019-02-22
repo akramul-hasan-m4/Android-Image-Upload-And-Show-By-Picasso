@@ -1,0 +1,4 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8Í»†™‘-
+hsquid:UselessImportCheck">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr8¼‡ˆ™‘-
+asquid:S1155e">Use isEmpty() to check whether the collection is empty or not.(æµ¹Ôþÿÿÿÿ8  ˜™‘-
